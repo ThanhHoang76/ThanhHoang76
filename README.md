@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Ngoc Thanh</h1>
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
+<h3 align="center">
 <img align="center" alt="coding" src="98764-custom-developer-animation-02.gif" width="400">
-
+</h3>
 
 
 <h3 align="left">Connect with me:</h3>
